@@ -1,10 +1,10 @@
 # Exercism-exercices
 
-This is a repository that contents all my solutions of the exercices(Javascript) in [ exercism ](https://exercism.org/). 
+This is a repository that contents all my solutions of the exercices(Javascript) in [ exercism ](https://exercism.org/tracks/javascript/exercises). 
 
 ## Table of contents
 
-- [Hello-word](https://github.com/vjeanty02/Exercism-js/tree/main/Hello-word)
+- [Hello word](https://github.com/vjeanty02/Exercism-js/tree/main/Hello-word)
 
 ## Author
 
