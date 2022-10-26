@@ -1,6 +1,6 @@
 # Exercism-exercices
 
-This is a repository that contents all my solutions of the exercices(Javascript) in [ exercism ](https://exercism.org/tracks/javascript/exercises). 
+This is a repository that contents all my solutions of the exercices (Javascript) in [ exercism ](https://exercism.org/tracks/javascript/exercises). 
 
 ## Table of contents
 
