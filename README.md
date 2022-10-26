@@ -4,7 +4,7 @@ This is a repository that contents all my solutions of the exercices(Javascript)
 
 ## Table of contents
 
-- [Hello-word]().
+- [Hello-word](https://github.com/vjeanty02/Exercism-js/tree/main/Hello-word)
 
 ## Author
 
