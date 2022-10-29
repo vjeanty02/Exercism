@@ -1,4 +1,9 @@
 /**
+ * @author vjeanty02
+ */
+
+
+/**
  * The number of minutes it takes to prepare a single layer.
  */
  const PREPARATION_MINUTES_PER_LAYER = 2;
