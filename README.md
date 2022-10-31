@@ -5,8 +5,8 @@ This is a repository that contents all my solutions of the exercices (Javascript
 ## Table of contents
 
 - [Hello word](https://github.com/vjeanty02/Exercism-js/tree/main/Hello-word)
-- [Hello word](https://github.com/vjeanty02/Exercism-js/tree/main/Hello-word)
-- [Annalyn's Infiltration](https://github.com/vjeanty02/Exercism-js/tree/main/Annalyn's Infiltration)
+- [Lucian's Luscious Lasagna](https://github.com/vjeanty02/Exercism-js/tree/main/Lucian's-Luscious-Lasagna)
+- [Annalyn's Infiltration](https://github.com/vjeanty02/Exercism-js/tree/main/Annalyn's-Infiltration)
 
 ## Author
 
