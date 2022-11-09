@@ -10,6 +10,7 @@ This is a repository that contents all my solutions of the exercices (Javascript
 
 ## Author
 
+- Exercism - [@vjeanty02](https://exercism.org/profiles/vjeanty02)
 - Twitter - [@vjeanty02](https://www.twitter.com/vjeanty02)
 - Linkedin - [@vjeanty02](https://www.linkedin.com/in/vjeanty02)
 - Frontend Mentor - [@vjeanty02](https://www.frontendmentor.io/profile/vjeanty02)
